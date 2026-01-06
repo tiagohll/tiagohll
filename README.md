@@ -26,8 +26,8 @@ I am a software developer dedicated to building scalable solutions and high-qual
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagohll&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagohll&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagohll&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagohll&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -35,10 +35,10 @@ I am a software developer dedicated to building scalable solutions and high-qual
 ### 📫 Reach Me Out
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:seu-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
