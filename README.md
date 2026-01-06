@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Fullstack Developer | 3 Years of Experience
 
-I am a passionate software developer dedicated to building scalable solutions and delivering high-quality user experiences. With over 3 years of journey in the tech ecosystem, I focus on writing clean, maintainable code and solving complex problems.
+I am a software developer dedicated to building scalable solutions and high-quality user experiences. With 3 years in the tech ecosystem, I focus on clean code, performance, and modern architectures.
 
 ---
 
@@ -23,34 +23,22 @@ I am a passionate software developer dedicated to building scalable solutions an
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagohll&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagohll&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagohll&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 📁 Top Projects
-
-- **[Project Name 1](https://github.com/tiagohll/repository-name)** - A brief description of the project and the tech used (e.g., React & Node.js).
-- **[Project Name 2](https://github.com/tiagohll/repository-name)** - A brief description of the project and the tech used (e.g., Java & Spring Boot).
-- **[Project Name 3](https://github.com/tiagohll/repository-name)** - A brief description of the project and the tech used (e.g., Next.js & TypeScript).
-
 ---
 
 ### 📫 Reach Me Out
 
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
