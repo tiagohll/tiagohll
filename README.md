@@ -23,12 +23,13 @@ I am a software developer dedicated to building scalable solutions and high-qual
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagohll&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagohll&layout=compact&theme=tokyonight" />
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tiagohll&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagohll&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
