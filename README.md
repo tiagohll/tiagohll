@@ -21,14 +21,6 @@ I am a software developer dedicated to building scalable solutions and high-qual
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tiagohll&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagohll&layout=compact&theme=tokyonight" />
-</p>
 
 
 ---
